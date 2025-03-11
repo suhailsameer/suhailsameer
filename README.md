@@ -23,4 +23,3 @@ I'm a **Software Development** student at *Canadian University Dubai*, passionat
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhailsameer)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](http://github.com/suhailsameer)  
